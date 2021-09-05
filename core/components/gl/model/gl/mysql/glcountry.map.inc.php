@@ -38,7 +38,7 @@ $xpdo_meta_map['glCountry']= array (
     array (
       'dbtype' => 'varchar',
       'precision' => '128',
-      'phptype' => 'varchar',
+      'phptype' => 'string',
       'null' => false,
       'default' => '',
     ),
@@ -46,7 +46,7 @@ $xpdo_meta_map['glCountry']= array (
     array (
       'dbtype' => 'varchar',
       'precision' => '128',
-      'phptype' => 'varchar',
+      'phptype' => 'string',
       'null' => false,
       'default' => '',
     ),
@@ -70,7 +70,7 @@ $xpdo_meta_map['glCountry']= array (
     array (
       'dbtype' => 'varchar',
       'precision' => '30',
-      'phptype' => 'varchar',
+      'phptype' => 'string',
       'null' => false,
       'default' => '',
     ),
